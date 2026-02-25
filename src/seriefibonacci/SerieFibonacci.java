@@ -26,6 +26,6 @@ public class SerieFibonacci {
             b = siguiente;         // El nuevo valor pasa a ser el segundo
         }
 
-        sc.close(); // Cierra el Scanner
+        sc.close(); 
     }
 }
